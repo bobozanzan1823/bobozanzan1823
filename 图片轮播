@@ -1,0 +1,18 @@
+<div id="max">
+        <div class="re">
+            <ul>
+                <li><img src="./pic/big_size/p1.jpg" alt=""></li>
+                <li><img src="./pic/big_size/p2.jpg" alt=""></li>
+                <li><img src="./pic/big_size/p3.jpg" alt=""></li>
+                <li><img src="./pic/big_size/p4.jpg" alt=""></li>
+                <li><img src="./pic/big_size/p5.jpg" alt=""></li>
+            </ul>
+            <ol>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ol>
+        </div>
+    </div>
